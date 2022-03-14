@@ -1,2 +1,2 @@
 # Projeto-HTML
-Um pequeno projeto feito em HTML, CSS e JavaScript no IFBA 
+Um pequeno projeto feito em HTML no IFBA 
